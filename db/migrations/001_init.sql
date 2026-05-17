@@ -1,0 +1,2 @@
+-- Auto-generated migration: edit to match your schema
+-- Run with: psql $DATABASE_URL < db/migrations/001_init.sql
